@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/ccdb07a5f71a6b9e6c96f56e11f2c74ac57e007b745ec6206f5a938a5b33fb75/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a764249536b785a5a7150544a786663364a39783461512e676966)(https://images.app.goo.gl/hS4QYmtDyeugMvDv7)
+![MasterHead](https://camo.githubusercontent.com/ccdb07a5f71a6b9e6c96f56e11f2c74ac57e007b745ec6206f5a938a5b33fb75/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a764249536b785a5a7150544a786663364a39783461512e676966)(https://images.app.goo.gl/hS4QYmtDyeugMvDv7)(https://images.app.goo.gl/WkWJgrTro9tm9BmaA)
 <h1 align="center">Hi 👋, I'm Naveen kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
