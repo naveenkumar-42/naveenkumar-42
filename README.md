@@ -34,8 +34,6 @@
 
 [![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=31s4ucc7yrdov6da6wqg2u2tr5ki&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/31s4ucc7yrdov6da6wqg2u2tr5ki)
 
-https://open.spotify.com/user/31s4ucc7yrdov6da6wqg2u2tr5ki?si=20b5a9f472e64c8a
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-42&show_icons=true&locale=en&layout=compact" alt="naveenkumar-42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-42&show_icons=true&locale=en" alt="naveenkumar-42" /></p>
