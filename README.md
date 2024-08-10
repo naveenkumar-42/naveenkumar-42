@@ -2,11 +2,20 @@
 
 <h1 align="center">Hey there👋, I'm Naveen kumar P</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer</h3>
-<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500"><h3 align="left">
+    <a href="https://open.spotify.com/user/31s4ucc7yrdov6da6wqg2u2tr5ki?si=a6f95f5c185f4289">Music is Everything to Me</a>
+</h3>
+
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-42&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar-42" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar-42" alt="naveenkumar-42" /></a> </p>
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=naveenkumar-42&theme=darkhub" alt="naveenkumar-42" />
+    </a> 
+</p>
 
 - 🌱 I’m currently learning **React and Java Script**
 
@@ -32,12 +41,12 @@
 
 <h3 align="left">🎧 Spotify Playing </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-42&show_icons=true&locale=en&layout=compact&theme=dark" alt="naveenkumar-42" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-42&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="naveenkumar-42" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-42&show_icons=true&locale=en&theme=dark" alt="naveenkumar-42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-42&show_icons=true&locale=en&theme=chartreuse-dark" alt="naveenkumar-42" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-42&theme=dark" alt="naveenkumar-42" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-42&theme=chartreuse-dark" alt="naveenkumar-42" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Naveen_kumar_42)](https://leetcode.com/Naveen_kumar_42?ext=heatmap)
 
