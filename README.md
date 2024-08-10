@@ -32,13 +32,12 @@
 
 <h3 align="left">🎧 Spotify Playing </h3>
 
-[![Spotify Recently Playing](https://spotify-recently-played-readme.vercel.app/api?user=31s4ucc7yrdov6da6wqg2u2tr5ki&count=6&width=600&align=center&unique=true)](https://open.spotify.com/user/31s4ucc7yrdov6da6wqg2u2tr5ki)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-42&show_icons=true&locale=en&layout=compact&theme=dark" alt="naveenkumar-42" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-42&show_icons=true&locale=en&layout=compact" alt="naveenkumar-42" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-42&show_icons=true&locale=en" alt="naveenkumar-42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-42&show_icons=true&locale=en&theme=dark" alt="naveenkumar-42" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-42&" alt="naveenkumar-42" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-42&theme=dark" alt="naveenkumar-42" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Naveen_kumar_42)](https://leetcode.com/Naveen_kumar_42?ext=heatmap)
 
