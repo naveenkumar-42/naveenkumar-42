@@ -3,7 +3,7 @@
 <h1 align="center">Yo !👋, I'm Naveen kumar</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500"><h3 align="left">
-    <a target="blank" href="https://open.spotify.com/user/31s4ucc7yrdov6da6wqg2u2tr5ki?si=a6f95f5c185f4289">Music is Everything to Me</a>
+    <a  href="https://open.spotify.com/user/31s4ucc7yrdov6da6wqg2u2tr5ki?si=a6f95f5c185f4289" target="blank"> ↗ Music is a profound source of inspiration and motivation in my life.</a>
 </h3>
 
 <br><br>
