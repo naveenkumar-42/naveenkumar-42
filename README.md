@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **React and Java Script**
 
-- 👨‍💻 All of my projects are available at [https://naveenkumar-42.github.io/personal_portfolio/](https://naveenkumar-42.github.io/personal_portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://naveenkumar-42.github.io/personal_portfolio/)
 
 - 💬 Ask me about **UI/UX and Frontend Development**
 
