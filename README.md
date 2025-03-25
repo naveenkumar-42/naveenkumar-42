@@ -92,7 +92,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar-42&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="naveenkumar-42" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar-42&show_icons=true&locale=en&theme=chartreuse-dark" alt="naveenkumar-42" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-42&theme=chartreuse-dark" alt="naveenkumar-42" /></p>
