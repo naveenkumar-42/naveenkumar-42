@@ -3,7 +3,7 @@
 <h1 align="center">Yo !👋, I'm Naveen kumar</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer</h3>
 
-<img src="https://raw.githubusercontent.com/naveenkumar-42/naveenkumar-42/output/snake.svg" alt="Snake animation" /><br>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500"><h3 align="left">
@@ -94,7 +94,7 @@
   </a>
 </p>
 
-
+<img src="https://raw.githubusercontent.com/naveenkumar-42/naveenkumar-42/output/snake.svg" alt="Snake animation" /><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar-42&theme=chartreuse-dark" alt="naveenkumar-42" /></p>
 
